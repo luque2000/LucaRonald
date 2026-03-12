@@ -1,126 +1,146 @@
-# 👨‍💻 Lucas Ronald
+**Desenvolvedora FullStack**
 
-**`Desenvolvedor de Software | Automação | Tecnologia`**
+Me chamo Lucas Ronald, tenho 25 anos e sou de Joinville, Santa Catarina. Tenho grande interesse por tecnologia, especialmente nas áreas de programação, automação, eletrônica e engenharia aplicada. Gosto de aprender na prática e desenvolver projetos que resolvam problemas reais.
 
-Olá! Me chamo **Lucas Ronald**, tenho **25 anos** e sou de **Joinville - Santa Catarina** 🇧🇷.
+Atualmente, trabalho e estudo constantemente para aprimorar minhas habilidades em desenvolvimento de software, sistemas com interface gráfica em Python, automação industrial e integração de tecnologias. Também tenho interesse em compartilhar conhecimento e projetos práticos relacionados a engenharia, programação e tecnologia através das redes sociais.
 
-Sou apaixonado por **tecnologia, programação, automação industrial e eletrônica aplicada**.  
-Gosto de aprender **na prática**, desenvolvendo projetos que resolvem **problemas reais**, principalmente envolvendo **software, interfaces gráficas e integração com sistemas industriais**.
+Sou movido pela curiosidade, pela vontade de construir soluções úteis e pela ideia de que a tecnologia pode transformar ideias em ferramentas reais.
 
-Atualmente foco meus estudos e projetos em:
 
-- 🖥️ Desenvolvimento de **sistemas com interface gráfica**
-- 🐍 Aplicações em **Python**
-- ⚙️ **Automação industrial**
-- 🔌 Integração entre **hardware e software**
-- 📊 Sistemas de **controle, inventário e produção**
-
-Busco constantemente evoluir minhas habilidades e construir soluções que unam **engenharia, programação e tecnologia aplicada**.
-
----
-
-# 🚀 Tecnologias e Ferramentas
-
-### 💻 Desenvolvimento
+### 🤖 Linguagens e Tecnologias
 
 <img 
-align="left" 
-alt="Python" 
-title="Python"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
-align="left" 
-alt="JavaScript" 
-title="JavaScript"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
-align="left" 
-alt="HTML"
-title="HTML" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
-align="left" 
-alt="CSS"
-title="CSS" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-
 <img 
-align="left" 
-alt="Git"
-title="Git" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
 <br/>
 
-### 🏭 Automação e Engenharia
-
-- CLP Siemens (S7-1200)
-- Sensores industriais
-- Sistemas de visão (Keyence)
-- Integração Hardware + Software
-- Sistemas de controle de produção
-
----
-
-# 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
-align="left" 
-alt="GitHub Stats" 
-height="180" 
-style="padding-right: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-<img 
-align="left" 
-alt="Top Languages" 
-height="180" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&langs_count=8" 
-/>
-
-</p>
-
-<br/>
-<br/>
-
-# 📌 Projetos em Destaque
-
-🚧 Em desenvolvimento...
-
-Alguns projetos que você encontrará aqui:
-
-- 🖥️ **Sistema de Inventário com Interface Gráfica (Python)**
-- 🏭 **Integração CLP + Sensor de Visão**
-- 🏷️ **Sistema de Impressão de Etiquetas Industriais**
-- 📊 **Ferramentas de Automação para Produção**
-
----
-
-# 🌐 Conecte-se comigo
-
-📍 Joinville - SC  
-💻 Tecnologia | Automação | Programação  
-
-Em breve compartilhando mais projetos e conteúdos sobre **engenharia prática e desenvolvimento de sistemas**.
+</p>"
