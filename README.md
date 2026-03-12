@@ -1,3 +1,4 @@
+# Lucas Ronald
 **Desenvolvedora FullStack**
 
 Me chamo Lucas Ronald, tenho 25 anos e sou de Joinville, Santa Catarina. Tenho grande interesse por tecnologia, especialmente nas áreas de programação, automação, eletrônica e engenharia aplicada. Gosto de aprender na prática e desenvolver projetos que resolvam problemas reais.
